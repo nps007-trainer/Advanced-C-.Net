@@ -1,0 +1,6 @@
+E:\Nandini\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.exe.config
+E:\Nandini\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.exe
+E:\Nandini\DirectoryDemo\DirectoryDemo\bin\Debug\DirectoryDemo.pdb
+E:\Nandini\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.csprojResolveAssemblyReference.cache
+E:\Nandini\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.exe
+E:\Nandini\DirectoryDemo\DirectoryDemo\obj\Debug\DirectoryDemo.pdb
