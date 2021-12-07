@@ -1,0 +1,6 @@
+E:\Nandini\gcdemo\gcdemo\bin\Debug\gcdemo.exe.config
+E:\Nandini\gcdemo\gcdemo\bin\Debug\gcdemo.exe
+E:\Nandini\gcdemo\gcdemo\bin\Debug\gcdemo.pdb
+E:\Nandini\gcdemo\gcdemo\obj\Debug\gcdemo.csprojResolveAssemblyReference.cache
+E:\Nandini\gcdemo\gcdemo\obj\Debug\gcdemo.exe
+E:\Nandini\gcdemo\gcdemo\obj\Debug\gcdemo.pdb
