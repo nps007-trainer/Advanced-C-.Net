@@ -1,0 +1,6 @@
+E:\Nandini\BufferDemo\BufferDemo\bin\Debug\BufferDemo.exe.config
+E:\Nandini\BufferDemo\BufferDemo\bin\Debug\BufferDemo.exe
+E:\Nandini\BufferDemo\BufferDemo\bin\Debug\BufferDemo.pdb
+E:\Nandini\BufferDemo\BufferDemo\obj\Debug\BufferDemo.csprojResolveAssemblyReference.cache
+E:\Nandini\BufferDemo\BufferDemo\obj\Debug\BufferDemo.exe
+E:\Nandini\BufferDemo\BufferDemo\obj\Debug\BufferDemo.pdb
