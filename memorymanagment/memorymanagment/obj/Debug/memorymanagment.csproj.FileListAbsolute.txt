@@ -1,0 +1,6 @@
+E:\Nandini\memorymanagment\memorymanagment\bin\Debug\memorymanagment.exe.config
+E:\Nandini\memorymanagment\memorymanagment\bin\Debug\memorymanagment.exe
+E:\Nandini\memorymanagment\memorymanagment\bin\Debug\memorymanagment.pdb
+E:\Nandini\memorymanagment\memorymanagment\obj\Debug\memorymanagment.csprojResolveAssemblyReference.cache
+E:\Nandini\memorymanagment\memorymanagment\obj\Debug\memorymanagment.exe
+E:\Nandini\memorymanagment\memorymanagment\obj\Debug\memorymanagment.pdb
