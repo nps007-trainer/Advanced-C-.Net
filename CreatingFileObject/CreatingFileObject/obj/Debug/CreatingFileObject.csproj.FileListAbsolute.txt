@@ -1,0 +1,6 @@
+E:\Nandini\CreatingFileObject\CreatingFileObject\bin\Debug\CreatingFileObject.exe.config
+E:\Nandini\CreatingFileObject\CreatingFileObject\obj\Debug\CreatingFileObject.csprojResolveAssemblyReference.cache
+E:\Nandini\CreatingFileObject\CreatingFileObject\bin\Debug\CreatingFileObject.exe
+E:\Nandini\CreatingFileObject\CreatingFileObject\bin\Debug\CreatingFileObject.pdb
+E:\Nandini\CreatingFileObject\CreatingFileObject\obj\Debug\CreatingFileObject.exe
+E:\Nandini\CreatingFileObject\CreatingFileObject\obj\Debug\CreatingFileObject.pdb
